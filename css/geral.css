@@ -8,12 +8,6 @@ img {
   max-width: 100%;
 }
 
-.img-animal:hover{
-  transform: scale(1.2);
-  transition: 1s;
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-}
-
 ul {
   list-style: none;
 }
